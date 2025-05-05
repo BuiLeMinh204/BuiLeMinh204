@@ -10,6 +10,9 @@
 BuiLeMinh204/BuiLeMinh204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Chào mừng bạn đến với blog của mình
+mình là Bùi Lê Minh - sinh viên khoa CNTT đại học Phenikaa
 # Hệ thống phân tán là gì?
 Hệ thống phân tán (Distributed System) là một hệ thống bao gồm nhiều thành phần (máy tính, thiết bị) độc lập, nhưng phối hợp làm việc với nhau để hoàn thành một nhiệm vụ chung. Các thành phần này có thể nằm ở các địa điểm khác nhau và giao tiếp với nhau qua mạng. Mặc dù các thành phần trong hệ thống phân tán có thể ở xa nhau, nhưng chúng hoạt động như một hệ thống duy nhất đối với người sử dụng.
 
@@ -146,3 +149,8 @@ Các hệ thống phân tán giúp giám sát và phát hiện các mối đe d�
 ### Replication
 
 **Replication** là quá trình sao chép dữ liệu hoặc các thành phần của hệ thống từ một máy chủ hoặc địa điểm này sang máy chủ hoặc địa điểm khác trong hệ thống phân tán. Điều này giúp tăng tính sẵn sàng và khả năng chịu lỗi của hệ thống. Nếu một bản sao của dữ liệu bị lỗi, các bản sao khác có thể được sử dụng để thay thế, đảm bảo rằng dữ liệu luôn có sẵn.
+
+
+git add .
+git commit -m "update"
+git push
